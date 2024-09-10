@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hey ! That's me Quentin.
+Currently on 2nd year prep-engineering 
 
 <!--
 **Yapudco/Yapudco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

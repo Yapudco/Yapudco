@@ -1,5 +1,7 @@
 ## Hey ! That's me Quentin.
-Currently on 2nd year prep-engineering 
+Currently on 3rd Year of engineering school
+
+Student Pilot - Informatics
 
 <!--
 **Yapudco/Yapudco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
